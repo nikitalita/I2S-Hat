@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "SS1P3L")(type "KiCad")(uri "${KIPRJMOD}/SS1P3L/SS1P3L.kicad_sym")(options "")(descr ""))
+  (lib (name "NC7SZ157P6X")(type "KiCad")(uri "${KIPRJMOD}/NC7SZ157P6X/NC7SZ157P6X.kicad_sym")(options "")(descr ""))
+  (lib (name "NC7SU04M5X")(type "KiCad")(uri "${KIPRJMOD}/NC7SU04M5X/NC7SU04M5X.kicad_sym")(options "")(descr ""))
+  (lib (name "WM8804")(type "KiCad")(uri "${KIPRJMOD}/WM8804/WM8804.kicad_sym")(options "")(descr ""))
+  (lib (name "dk_Resistor-Networks-Arrays")(type "KiCad")(uri "${KIPRJMOD}/digikey-kicad-library/digikey-symbols/dk_Resistor-Networks-Arrays.kicad_sym")(options "")(descr ""))
+  (lib (name "dk_Logic-Buffers-Drivers-Receivers-Transceivers")(type "KiCad")(uri "${KIPRJMOD}/digikey-kicad-library/digikey-symbols/dk_Logic-Buffers-Drivers-Receivers-Transceivers.kicad_sym")(options "")(descr ""))
+  (lib (name "Mouser")(type "KiCad")(uri "${KIPRJMOD}/Mouser/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+)
